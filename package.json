@@ -1,0 +1,42 @@
+{
+  "name": "tour",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next ldint"
+  },
+  "dependencies": {
+    "css": "^3.0.0",
+    "date-fns": "^4.1.0",
+    "express": "^5.1.0",
+    "firebase": "^11.9.0",
+    "framer-motion": "^12.16.0",
+    "google": "^2.1.0",
+    "lucide-react": "^0.511.0",
+    "map": "^1.0.1",
+    "next": "15.3.2",
+    "next-i18next": "^15.4.2",
+    "rc-slider": "^11.1.8",
+    "react": "^19.0.0",
+    "react-datepicker": "^8.4.0",
+    "react-dom": "^19.0.0",
+    "react-hook-form": "^7.57.0",
+    "react-loading-skeleton": "^3.5.0",
+    "react-paginate": "^8.3.0",
+    "react-range": "^1.10.0",
+    "react-responsive-carousel": "^3.2.23"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.8",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.4",
+    "tailwindcss": "^4.1.8",
+    "typescript": "^5"
+  }
+}
